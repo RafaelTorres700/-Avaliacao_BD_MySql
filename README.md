@@ -1,5 +1,4 @@
-![Quem sou eu sem meus irmãos](img\LOGOMARCAREGISTRADA.jpg)
-
+<img src="img/LOGOMARCAREGISTRADA.jpg" alt="Quem sou eu sem meus irmãos" width="300"/>
 # QUEM SOU EU SEM MEUS IRMÃOS, EVENTOS CURSOS E COMÉRCIO LTDA
 
 ## Descrição
